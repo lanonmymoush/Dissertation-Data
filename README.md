@@ -7,4 +7,8 @@ This GitHub repository provides links and access to raw datasets used for data a
 
 "CROSSESDATA" holds data used to address hypothesis 3. 
 
-"
+"DOUBLEMUTANTSDATA" holds data used to address hypothesis 1.  
+
+"TEMPERATURESIZEDATA" and "TEMPERATUREMUTANTSDATA" hold data used to address hypothesis 2.   
+
+
