@@ -4,3 +4,7 @@
 **Candidate number : 1064463      Supervisor : Prof Stephen Kearsey**
   
 This GitHub repository provides links and access to raw datasets used for data analysis supporting this thesis. 
+
+"CROSSESDATA" holds data used to address hypothesis 3. 
+
+"
