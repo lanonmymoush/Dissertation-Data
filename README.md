@@ -11,4 +11,4 @@ This GitHub repository provides links and access to raw datasets used for data a
 
 "TEMPERATURESIZEDATA" and "TEMPERATUREMUTANTSDATA" hold data used to address hypothesis 2.   
 
-
+"DATA ANALYSIS POLE.R" is the raw R code used for statistical analysis. 
